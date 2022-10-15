@@ -1,3 +1,8 @@
+@viewport{
+    zoom: 1.0;
+    width: device-width;
+}
+
 @keyframes is-rotating{
     to{
         transform: rotatey(90deg);
