@@ -110,7 +110,10 @@ text-indent: 35px;
   opacity: 60%;
   top: 7px;
   left:13px;
-  cursor:pointer;
+}
+
+.gg-search-found:hover{
+    cursor:pointer;
 }
 
 header#cabecalho .nav{
