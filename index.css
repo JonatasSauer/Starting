@@ -249,10 +249,19 @@ footer{
     left: 140px;
 }
 
+.facebook:hover{
+scale:1.20;
+}
+
 .instagram{
     position: relative;
     top: -10px;
     left: 177px;
 }
+
+.instagram:hover{
+scale:1.20;
+}
+
 
 
